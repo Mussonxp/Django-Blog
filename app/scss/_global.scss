@@ -1,6 +1,9 @@
 html,
 body {
     height: 100%;
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .wrapper {
@@ -9,8 +12,14 @@ body {
     min-height: 100%;
 }
 
+.content-wpapper {
+    max-width: 850px;
+    margin: 0 auto
+}
+
 .main {
     flex: 1 0 auto;
+    height: 100%;
 }
 
 .footer {
