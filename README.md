@@ -8,3 +8,6 @@ Repo of MyPMLab. Website frontend.
 
 # install:
 npm i
+
+# Run in development mode:
+gulp
