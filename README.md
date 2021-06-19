@@ -2,9 +2,9 @@
 
 Repo of MyPMLab. Website frontend.
 
-#Prerequisites:
+# Prerequisites:
 1. Gulp
 2. NPM
 
-#install:
+# install:
 npm i
