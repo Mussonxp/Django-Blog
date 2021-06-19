@@ -1,3 +1,3 @@
 # MyPMlab. Blog Repo
 
-epo of MyPMLab. Website frontend.
+Repo of MyPMLab. Website frontend.
